@@ -1,0 +1,16 @@
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.exe
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.deps.json
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.runtimeconfig.json
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.runtimeconfig.dev.json
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.dll
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\OpenWeatherExercise.pdb
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.csproj.AssemblyReference.cache
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.AssemblyInfoInputs.cache
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.AssemblyInfo.cs
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.csproj.CoreCompileInputs.cache
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.csproj.CopyComplete
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.dll
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.pdb
+C:\Users\midas\Desktop\TestRepo\OpenWeatherExercise\OpenWeatherExercise\obj\Debug\netcoreapp3.1\OpenWeatherExercise.genruntimeconfig.cache
